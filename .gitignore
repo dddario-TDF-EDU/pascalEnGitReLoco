@@ -1,0 +1,6 @@
+*.pas
+*.dat
+*.exe
+*.o
+!ej3.pas
+
